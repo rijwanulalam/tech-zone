@@ -1,0 +1,7 @@
+@media screen and (max-width: 550px){
+    .fix-text{
+        text-align: center;
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+}

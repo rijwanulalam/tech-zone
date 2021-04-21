@@ -1,0 +1,7 @@
+.bg-container {
+    background:linear-gradient( rgba(0, 0, 0, 0.6), rgba(9, 30, 38, 0.9)), url("../../../assets//services.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    padding: 1rem;
+}
